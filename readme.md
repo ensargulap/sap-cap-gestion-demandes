@@ -14,6 +14,7 @@ OData exposé par SAP CAP et une interface Fiori Elements pour les consulter.
 - SQLite (base de développement)
 
 ## Fonctionnalités actuelles
+- Validation côté serveur (handler Node.js) : titre obligatoire, priorité contrôlée
 - Modèle de données `Demandes` (titre, description, statut, priorité)
 - Service OData `DemandesService`
 - Liste et page de détail Fiori Elements
